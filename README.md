@@ -4,13 +4,23 @@ The open-source CapCut alternative.
 
 Built with React, Vite, Express, and PostgreSQL.
 
+[![Live Demo](https://img.shields.io/badge/demo-live-blue?logo=vercel)](https://github.com/gghaoao/opencut-video-editor)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/gghaoao/opencut-video-editor)
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/gghaoao/opencut-video-editor/pulls)
+
+---
+
+## Screenshots
+
+> 🚧 The editor UI is in active development. Screenshots will appear here once the first build is ready.
+
+<!-- Replace the image below with a real screenshot once the UI is built -->
+![Editor Preview](https://placehold.co/1280x720/1a1a2e/ffffff?text=OpenCut+Video+Editor+—+Coming+Soon)
+
 ---
 
 ## Status
-
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
 This project is actively developed. Features are being added regularly. Breaking changes may occur before v1.0.
 
@@ -44,7 +54,7 @@ We welcome all contributions — code, design, docs, or bug reports!
 
 ```bash
 # Clone the repo
-clone https://github.com/gghaoao/opencut-video-editor.git
+git clone https://github.com/gghaoao/opencut-video-editor.git
 cd opencut-video-editor
 
 # Install dependencies
